@@ -7,3 +7,4 @@ Read Our Blog on:
   - [Overfitting and Underfitting](https://csschoolonline.xyz/overfitting-and-underfitting-dataset-high-variance-and-high-bias/)
   - [Principal Component Analysis](https://csschoolonline.xyz/principal-component-analysis-pca-2d-graph-scatter-plot-with-legends/)
   - [K Nearest Neighbor | KNN ](https://csschoolonline.xyz/k-nearest-neighbor-knn-sklearn-kneighborsclassifier/)
+  - [Breast Cancer Prediction Model | Keras Sequential Model](https://csschoolonline.xyz/breast-cancer-prediction-model-keras-sequential-model/)
