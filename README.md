@@ -1,6 +1,7 @@
 # DataScienceYouTubeTutorials
 This Repository will hold Data Science code I 've shown in my video tutorials in 
  - [YouTube channel](https://www.youtube.com/channel/UCaHIYtEh4EmVIGwca0pnfYg)
+   - [Label Encoding](https://youtu.be/kW1Sm8S1Jf0)
 
 Read Our Blog on: 
   - [Hierarchical Clustering](https://csschoolonline.xyz/hierarchical-clustering-python-implementation/)
