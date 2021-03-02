@@ -4,6 +4,9 @@ This Repository will hold Data Science code I 've shown in my video tutorials in
    - [Label Encoding](https://youtu.be/kW1Sm8S1Jf0)
    - [Optimizing input Parameters for Machine Learning Models | Correlation Matrix | ExtraTreesRegressor()](https://youtu.be/dtK7XNn9x9c)
    - [Breast Cancer Prediction Model Using Artificial Neural Network (ANN) | Keras Sequential](https://youtu.be/wk5Y5tP4NhU)
+   - [Principal Component Analysis | PCA 2D Graph | Scatter-plot with Legends](https://youtu.be/vt13NPz4_Es)
+   - [Hierarchical Clustering | Unsupervised Cluster Analysis | Python Implementation](https://youtu.be/g27eRAe5ylw)
+   - [K Nearest Neighbor | KNN | sklearn KNeighborsClassifier](https://youtu.be/Tq5QVLuwbBE)
 
 Read Our Blog on: 
   - [Hierarchical Clustering](https://csschoolonline.xyz/hierarchical-clustering-python-implementation/)
